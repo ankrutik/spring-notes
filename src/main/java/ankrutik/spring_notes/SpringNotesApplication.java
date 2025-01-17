@@ -2,11 +2,9 @@ package ankrutik.spring_notes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ComponentScan;
 import ankrutik.spring_notes.config.Config1;
-import ankrutik.spring_notes.play.*;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import ankrutik.spring_notes.play.ShopFinder;
 
